@@ -1,0 +1,26 @@
+#Read{
+     height: 100vh;
+     color: black;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.container {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+   .read-more h1 {
+    color:white;
+   }
+   .btn-collapse p {
+    color: white;
+   }
+
+.card-image img {
+    min-height: 200px;
+}
+#Cards {
+    justify-content: space-between;
+    height: 100vh;
+}
